@@ -4,5 +4,5 @@
 -- List of theme colors: https://neuron.zettel.page/2014601.html
 , theme = "black"
 -- This is used in the "edit" button
-, editUrl = "https://github.com/srid/neuron-template/edit/master/"
+, editUrl = "https://github.com/bundleunbundle/bundleunbundle/edit/master/"
 }
